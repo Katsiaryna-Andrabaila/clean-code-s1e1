@@ -127,7 +127,9 @@
   align-items: center;
 }
 
-.mode > * {
+.mode .checkbox,
+.mode .task,
+.mode .button {
   vertical-align: middle;
 }
 
