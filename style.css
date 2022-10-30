@@ -45,8 +45,8 @@
   margin: 20px 0;
 }
 
-#incomplete-tasks,
-#completed-tasks {
+#tasks__incomplete-tasks,
+#tasks__completed-tasks {
   margin: 0;
   padding: 0px;
 }
@@ -157,7 +157,7 @@
 }
 
 /* Completed */
-#completed-tasks .tasks__list__task_label {
+#tasks__completed-tasks .tasks__list__task_label {
   text-decoration: line-through;
   color: #888;
 }
