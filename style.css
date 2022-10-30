@@ -125,13 +125,13 @@
   align-items: center;
 }
 
-.tasks__list__mode .checkbox,
+.tasks__list__mode .tasks__list__checkbox,
 .tasks__list__mode .tasks__list__task,
 .tasks__list__mode .tasks__list__button {
   vertical-align: middle;
 }
 
-.checkbox {
+.tasks__list__checkbox {
   margin: 0 10px;
 }
 
