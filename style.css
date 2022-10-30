@@ -40,7 +40,7 @@
   flex-grow: 1;
 }
 
-.add__task-row-wrapper {
+.task-row-wrapper {
   display: flex;
   margin: 20px 0;
 }
@@ -80,7 +80,7 @@
 /* Heading */
 .todo-header,
 .completed-header,
-.add__header {
+.add-header {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -108,7 +108,7 @@
 }
 
 /* New Task */
-.add__header {
+.add-header {
   display: block;
   margin: 0 0 20px;
 }
